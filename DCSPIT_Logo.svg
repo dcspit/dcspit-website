@@ -1,12 +1,12 @@
 <svg viewBox="0 0 400 200" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <style>
-      .dcspit-title { font-family: 'Courier New', 'Courier', monospace; font-size: 72px; font-weight: bold; letter-spacing: 6px; fill: #0b1a2e; }
+      .dcspit-title { font-family: 'Courier New', 'Courier', monospace; font-size: 72px; font-weight: bold; letter-spacing: 6px; fill: #ffffff; }
       .dcspit-subtitle { font-family: 'Courier New', 'Courier', monospace; font-size: 18px; letter-spacing: 3px; fill: #f0a94c; font-weight: bold; }
     </style>
   </defs>
   
-  <line x1="20" y1="25" x2="380" y2="25" stroke="#0b1a2e" stroke-width="2.5"/>
+  <line x1="20" y1="25" x2="380" y2="25" stroke="#f0a94c" stroke-width="2.5"/>
   
   <text x="200" y="110" text-anchor="middle" class="dcspit-title">DCSPIT</text>
   
@@ -14,5 +14,5 @@
   
   <text x="200" y="170" text-anchor="middle" class="dcspit-subtitle">SIM-PIT CONTROLLER</text>
   
-  <line x1="20" y1="185" x2="380" y2="185" stroke="#0b1a2e" stroke-width="2.5"/>
+  <line x1="20" y1="185" x2="380" y2="185" stroke="#f0a94c" stroke-width="2.5"/>
 </svg>
